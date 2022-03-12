@@ -1,5 +1,5 @@
 # Syhuu
-Scripts and realases of Syhuu System <br>
+Scripts and releases of Syhuu System <br>
 NOTICE: The is currently no way to install the system, you can currently only use the Live ISO
 # System Requirements
 It is pretty much compatible with most x86_64 systems released in the last 15 years.
