@@ -1,0 +1,15 @@
+-add flatpak
+-get installer.sh functional
+-set arc-gtk-theme by default
+-add pamac to system
+-add paru to the system
+-distro customisations (background, colour scheme, firefox userchrome, font, etc)
+-software to potentially add
+-onlyoffice
+-leafpad
+-flameshot
+-add emoji font
+-grub colour scheme
+-magic wormhole
+-kde connect
+-uxplay

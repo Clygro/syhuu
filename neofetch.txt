@@ -1,0 +1,18 @@
+${c2}
+                          xxx#
+                 xxxxxxxxxxx##
+     xxxxxxxxxxxxxxxxxxxxxx###
+   xxxxxxxxxxxxx#############
+ xxxxxxx##################v
+xxxx################vvvvvv
+#################vvvvvvvvvvv
+x######################vvvvvvv
+xxx##########################X
+   xxxxxxxxxxxxxxx##########XX
+            xxxxxxxxxxx####XXX
+	      xxxxxxx#####XXXX
+       xxxxxx############XXXXX
+    xxxxxx################XXXX
+xxxxx#############xxxxxxxxxXXX
+##########xxxxxxxxxxxxxxxxxxXX	
+xxxxxxxxxxxxxxxx
