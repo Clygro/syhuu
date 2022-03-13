@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:syhuu
+wheel:x:10:syhuu
+uucp:x:14:syhuu
+syhuu:x:1000:
